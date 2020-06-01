@@ -1,0 +1,1 @@
+Hi, My name is Mamus Eferha and I am software developer. This is my task one for the HNG 7.0 internship. 
